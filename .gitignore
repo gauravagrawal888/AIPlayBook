@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AIPlayBook/DrawIOMcpServer/local.settings.json
+/AIPlayBook/DrawIOMcpServer/obj/Debug/net9.0
+/AIPlayBook/DrawIOMcpServer/obj/Release/net9.0
+/AIPlayBook/DrawIOMcpServer/obj
+/AIPlayBook/.vs/AIPlayBook/config
+/AIPlayBook/.vs/AIPlayBook/CopilotIndices/17.14.1231.31060
+/AIPlayBook/.vs/AIPlayBook/FileContentIndex
+/AIPlayBook/.vs/AIPlayBook/v17
+/.vs/AIPlayBook
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/AIPlayBook/Common/obj
+*.dll
+/AIPlayBook/DrawIOMcpServer/bin/Debug/net9.0
+/AIPlayBook/Common/bin/Debug/net9.0
